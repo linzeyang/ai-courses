@@ -1,0 +1,5 @@
+langchain==0.0.335
+notebook==7.0.6
+openai==1.2.3
+python-dotenv==1.0.0
+tiktoken==0.5.1
