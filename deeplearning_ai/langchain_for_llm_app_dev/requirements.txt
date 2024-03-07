@@ -1,5 +1,5 @@
 dashscope==1.14.1
-langchain==0.1.10
+langchain==0.1.11
 notebook==7.1.1
 openai==1.13.3
 pandas==2.2.1
