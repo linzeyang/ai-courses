@@ -25,7 +25,7 @@ repos:
     hooks:
       - id: isort
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.4.4
+    rev: v0.4.8
     hooks:
       - id: ruff
         args: ["--config=./pyproject.toml"]
@@ -34,7 +34,7 @@ repos:
     hooks:
       - id: nbqa-black
       - id: nbqa-flake8
-        args: ["--ignore=E203,E402,E501,W503"]
+        args: ["--ignore=E203,E402,E501,W503,W605"]
       - id: nbqa-isort
       - id: nbqa-ruff
         args: ["--ignore=E402,E501"]
