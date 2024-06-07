@@ -1,3 +1,4 @@
+aiosqlite==0.20.0
 beautifulsoup4==4.12.3
 duckduckgo-search==6.1.5
 ipykernel==6.29.4
