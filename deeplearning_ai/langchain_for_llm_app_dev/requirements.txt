@@ -1,7 +1,5 @@
-dashscope==1.14.1
-langchain==0.1.11
-notebook==7.1.1
-openai==1.13.3
-pandas==2.2.1
+ipykernel==6.29.4
+langchain==0.2.3
+langchain-openai==0.1.8
+pandas==2.2.2
 python-dotenv==1.0.1
-tiktoken==0.6.0
