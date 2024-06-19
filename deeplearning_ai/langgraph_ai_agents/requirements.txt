@@ -2,9 +2,9 @@ aiosqlite==0.20.0
 beautifulsoup4==4.12.3
 duckduckgo-search==6.1.5
 ipykernel==6.29.4
-langchain==0.2.3
-langchain-community==0.2.4
+langchain==0.2.5
+langchain-community==0.2.5
 langchain-openai==0.1.8
-langgraph==0.0.65
+langgraph==0.0.69
 python-dotenv==1.0.1
 tavily-python==0.3.3
