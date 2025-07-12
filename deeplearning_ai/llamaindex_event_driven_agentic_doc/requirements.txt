@@ -1,0 +1,6 @@
+gradio==5.36.2
+ipykernel==6.29.5
+ipywidgets==8.1.7
+llama-index==0.12.48
+llama-index-readers-whisper==0.1.0
+llama-index-utils-workflow==0.3.5
